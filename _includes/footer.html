@@ -1,25 +1,14 @@
-  <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-4">
-                    <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
-                </div>
-                <div class="col-4">
-                    <ul class="list-inline social-buttons">
-                        {% for network in site.social %}
-                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
-                        </li>
-                        {% endfor %}
-                    </ul>
-                </div>
-                <div class="col-4">
-                    <ul class="list-inline quicklinks">
-                        <li><a href="#">Back To Top</a>
-                        </li>
-                        <li><a href="https://www.etsy.com/shop/TwoCupsOfChaa">Storefront</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </footer>
+<!-- Footer -->
+<footer id="footer">
+
+    <ul class="icons">
+        <li><a href="https://twitter.com/{{ site.twitter_username }}" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
+        <li><a href="https://www.instagram.com/{{ site.facebook_username }}" class="icon circle fa-facebook"><span class="label">Facebook</span></a></li>
+        <li><a href="https://github.com/{{ site.github_username }}" class="icon circle fa-github"><span class="label">Github</span></a></li>
+    </ul>
+
+    <ul class="copyright">
+        <li>&copy; Two Cups of Chaa LLC</li>
+    </ul>
+
+</footer>
