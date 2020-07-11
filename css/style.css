@@ -10,7 +10,7 @@
 /* Basic */
 
 	body, #skel-layers-wrapper {
-		background: #f3f6fa;
+		background: #19032728;
 	}
 
 	body.is-loading * {
@@ -317,14 +317,32 @@
 			}
 
 			.icon.circle.fa-twitter {
-				background: #70aecd;
-				color: white;
+				background:white;
+				color: #70aecd;
 			}
 
 				.icon.circle.fa-twitter:hover {
 					background: #7fb7d2;
+					color: white
 				}
+				.icon.circle.fa-pinterest {
+					background:white;
+					color: #a34e52;
+				}
+	
+					.icon.circle.fa-pinterest:hover {
+						background: #a34e52;
+						color: white;
+					}
+			.icon.circle.fa-instagram {
+				background: white;
+				color: #829bc9;
+			}
 
+				.icon.circle.icon.circle.fa-instagram:hover {
+					background: #829bc9;
+					color: white;
+				}
 			.icon.circle.fa-facebook {
 				background: #7490c3;
 				color: white;
@@ -526,7 +544,7 @@
 		input[type="submit"]:hover,
 		input[type="reset"]:hover,
 		.button:hover {
-			background: rgba(188, 202, 206, 0.15);
+			background: rgba(31, 157, 192, 0.15);
 			border-color: inherit;
 		}
 
@@ -534,7 +552,7 @@
 		input[type="submit"].special,
 		input[type="reset"].special,
 		.button.special {
-			background: #5d448b;
+			background: #262130b9;
 			border-color: #5d448b;
 			color: white !important;
 		}
@@ -543,8 +561,8 @@
 			input[type="submit"].special:hover,
 			input[type="reset"].special:hover,
 			.button.special:hover {
-				background: #96dad1 !important;
-				border-color: #96dad1 !important;
+				background: #1b0c2cc5!important;
+				border-color: #230644 !important;
 			}
 
 		input[type="button"].fit,
@@ -595,7 +613,7 @@
 	@keyframes reveal-header { 0% { top: -5em; } 100% { top: 0; } }
 
 	#header {
-		background: grey;
+		background: rgba(6, 3, 10, 0.692);
 		box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.075);
 		color: inherit;
 		cursor: default;
@@ -889,7 +907,7 @@
 		background-position: top left, top right, top left, bottom center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
 		background-size: 25em, 25em, auto, cover;
-		color: whitesmoke;
+		color: white;
 		padding: 5em;
 		text-align: center;
 	}
@@ -902,13 +920,13 @@
 
 	#footer {
 		background: #e8eef4;
-		color: #13b3db;
+		color: #7c8081;
 		padding: 1em 5em;
 		text-align: center;
 	}
 
 		#footer .copyright {
-			font-size: 1em;
+			font-size: 0.8em;
 			line-height: 1em;
 		}
 
