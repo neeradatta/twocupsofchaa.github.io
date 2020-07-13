@@ -10,7 +10,7 @@
 /* Basic */
 
 	body, #skel-layers-wrapper {
-		background: #19032728;
+		background: #400d5f28;
 	}
 
 	body.is-loading * {
@@ -27,7 +27,7 @@
 	}
 
 	body, input, select, textarea {
-		color: #f5f4f8;
+		color: #f5f4f893;
 		font-family: 'Lato', sans-serif;
 		font-size: 15pt;
 		font-weight: 300;
@@ -733,12 +733,14 @@
 
 .post-next {
     float: right;
-    margin-right: 3em;
+	margin-right: 3em;
+	color: #230644
 }
 
 .post-prev {
     float: left;
-    margin-left: 3em;
+	margin-left: 3em;
+	color: #230644
 }
 
 /* Dropotron */
@@ -803,7 +805,7 @@
 
 	#banner {
 		background-attachment: scroll, scroll, scroll, fixed;
-		background-color: #bbb0b9;
+		background-color: #4d309c;
 		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("../images/banner.jpg");
 		background-position: bottom left, bottom right, top left, top center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
