@@ -10,7 +10,7 @@
 /* Basic */
 
 	body, #skel-layers-wrapper {
-		background: #400d5f28;
+		background: #f3f0f74f;
 	}
 
 	body.is-loading * {
@@ -27,7 +27,7 @@
 	}
 
 	body, input, select, textarea {
-		color: #f5f4f893;
+		color: #9f93c4;
 		font-family: 'Lato', sans-serif;
 		font-size: 15pt;
 		font-weight: 300;
@@ -372,7 +372,7 @@
 				}
 
 			.icon.circle.fa-dribbble {
-				background: #da83ae;
+				background: #9083da;
 				color: white;
 			}
 
@@ -554,7 +554,7 @@
 		input[type="reset"].special,
 		.button.special {
 			background: #262130b9;
-			border-color: #5d448b;
+			border-color: #5d448bc7;
 			color: white !important;
 		}
 
@@ -591,19 +591,19 @@
 	}
 
 		.wrapper.style1 {
-			background-color: #3c2842;
+			background-color: #05063bb4;
 		}
 
 		.wrapper.style2 {
-			background-color: #3c2842;
+			background-color: #383969;
 		}
 
 		.wrapper.style3 {
-			background-color: #3c2842
+			background-color: #171847f1
 		}
 
 		.wrapper.style4 {
-			background-color: #3c2842;
+			background-color: #05063bb4;
 		}
 
 /* Header */
@@ -614,7 +614,7 @@
 	@keyframes reveal-header { 0% { top: -5em; } 100% { top: 0; } }
 
 	#header {
-		background: rgba(6, 3, 10, 0.692);
+		background: rgba(24, 8, 44, 0.801);
 		box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.075);
 		color: inherit;
 		cursor: default;
@@ -805,7 +805,7 @@
 
 	#banner {
 		background-attachment: scroll, scroll, scroll, fixed;
-		background-color: #4d309c;
+		background-color: #b3b0bb;
 		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("../images/banner.jpg");
 		background-position: bottom left, bottom right, top left, top center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
@@ -922,7 +922,7 @@
 /* Footer */
 
 	#footer {
-		background: #e8eef4;
+		background: #05063bb4;
 		color: #7c8081;
 		padding: 1em 5em;
 		text-align: center;
@@ -1041,7 +1041,7 @@
 
 	#topPanel,
 	#sidePanel {
-		background: #1c2021;
+		background: #786a7c;
 		color: white;
 		font-size: 0.8em;
 		letter-spacing: 0.075em;
