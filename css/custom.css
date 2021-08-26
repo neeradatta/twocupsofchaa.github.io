@@ -3,19 +3,23 @@ body, input, select, textarea {
 	font-family: 'Georama', sans-serif;
 }
 
-/** You need to fill in what you are doing so future self will remember, becuase you are getting old and won't remember. Trust me...... */
+/** CHANGED TO FIRST WRAPPER IN EVERY PAGE TO BE THE LIGHT BEIGE COLOR */
 .wrapper.style1 {
-    background-color: #350e18;
+    background-color: #9c8c90;
 }
 
 /** You need to fill in what you are doing so future self will remember, becuase you are getting old and won't remember. Trust me...... */
 .wrapper.style3 {
-    background-color: #1c1c29f1;
+    background-color: #896378;
+
+    /** You need to fill in what you are doing so future self will remember, becuase you are getting old and won't remember. Trust me...... */
+.wrapper.style2 {
+    background-color:#6E4468 ;
 }
 
 /** You need to fill in what you are doing so future self will remember, becuase you are getting old and won't remember. Trust me...... */
 .wrapper.style4 {
-    background-color: #1c1c2e;
+    background-color: #4b2a53;
 }
 
 /** You need to fill in what you are doing so future self will remember, becuase you are getting old and won't remember. Trust me...... */
