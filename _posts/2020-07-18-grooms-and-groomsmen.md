@@ -1,14 +1,16 @@
 ---
 date: 2020-07-01
-title: Grooms and Groomsmen
-meta: A customizable Invitation and Thank You collection
 layout: post
+title: Grooms and Groomsmen
+subtitle:
+description: A customizable Invitation and Thank You collection
 permalink: /collections/grooms
-thumbnail: portfolio/groomscoversart.jpg
+image: /images/portfolio/groomscoversart.jpg
+category: collections
+tags:
+  - collections
+author: neeradatta
 ---
-
-
-<span href="https://www.etsy.com/shop/TwoCupsOfChaa?ref=simple-shop-header-name&listing_id=839746857&section_id=28973991" class="image featured"><img src="/images/portfolio/groomscoversart.jpg" alt=""></span>
 
 | Digital Template | Easy to use | Edit At Home | Print and send|  Send directly to your Bridal party Via Email | 
 
