@@ -30,7 +30,7 @@ email: me@twocupsofchaa.com
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username:  neeradatta
+#github_username:  neeradatta
 facebook_username: twocupsofchaa
 twitter_username: twocupsofchaa
 instagram_username: twocupsofchaa
@@ -40,6 +40,7 @@ pinterest_username: twocupsofchaa
 
 
 # Posts Settings
+show_author: false
 show_time_bar: true
 show_modal_on_exit: false
 show_modal_on_finish_post: true

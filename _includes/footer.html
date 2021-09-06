@@ -30,6 +30,11 @@
           <svg><use xlink:href="#icon-linkedin"></use></svg>
         </a>
       {% endif %}
+      {% if site.pinterest_username %}
+        <a href="https://www.pinterest.com/{{ site.pinterest_username }}" title="Pinterest">
+          <svg><use xlink:href="#icon-pinterest"></use></svg>
+        </a>
+      {% endif %}
     </p>
 
     {% include links.html %}
@@ -57,6 +62,9 @@
 {% endif %}
 {% if site.linkedin_username %}
     {% assign social_urls = social_urls | append: '"https://www.linkedin.com/in/' | append: site.linkedin_username | append: '",' %}
+{% endif %}
+{% if site.pinterest_username %}
+    {% assign social_urls = social_urls | append: '"https://www.pinterest.com/' | append: site.pinterest_username | append: '",' %}
 {% endif %}
 
 <script type="application/ld+json">
