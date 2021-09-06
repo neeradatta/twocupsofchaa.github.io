@@ -1,36 +1,110 @@
-  
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
-# Theme Settings
-#
-# Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-
-# theme                  : "minimal-mistakes-jekyll"
-remote_theme             : "https://github.com/jekyll-demos/Twenty-Jekyll-Theme"
-minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
-  
-# Site settings
+# Site Settings
+name: Two Cups of Chaa
 title: Two Cups of Chaa
+description: An online design shop.
+tags:
+  - wedding
+  - invitation
+  - tbd
+  - tba
+  - diy
+show_hero: true
+menu:
+  - title: Home
+    url: /
+  - title: Digital Collections
+    url: /collections/digital
+  - title: Animal Collections
+    url: /collections/animal
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
 email: me@twocupsofchaa.com
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://twocupsofchaa.com
-facebook_username: twocupsofchaa
-instagram_username: twocupsofchaa
-twitter_username: twocupsofchaa
+# See: https://disqus.com/
+#disqus_username: disqus_username
+# Contact Form Setting
+# See: https://formspree.io/
+#formspree_form_id: formspree_form_id
+
+
+# Social Media Settings
+# Remove the item if you don't need it
 github_username:  neeradatta
+facebook_username: twocupsofchaa
+twitter_username: twocupsofchaa
+instagram_username: twocupsofchaa
+#linkedin_username: linkedin_username
+#medium_username: medium_username
 pinterest_username: twocupsofchaa
 
-# Write an awesome description for your new site here. You can edit this
-# line in _config.yml. It will appear in your document head meta (for
-# Google search results) and in your feed.xml site description.
-description: "Online Design Shop"
+
+# Posts Settings
+show_time_bar: true
+show_modal_on_exit: false
+show_modal_on_finish_post: true
+two_columns_layout: true
+
+
+# Advanced Settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://twocupsofchaa.com" # the base hostname & protocol for your site
+google_analytics: "UA-XXXXXXXX-X"
+language: "en"
+categories_folder: category
+sent_message_url: "/contact/message-sent/"
+
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+collections:
+  authors:
+    output: true
+paginate_path: "/page/:num/"
+show_get_theme_btn: true
+use_logo: false
+
+# Content paginator
+paginate_content:
+  enabled: true
+  debug: false
+  collections:
+    - posts
+  auto: false
+  separator: "--page-break--"
+  permalink: "/:num/"
+  seo_canonical: true
+  properties:
+    part:
+      is_generated: true
+    last:
+      is_generated: true
+    single:
+      is_generated: true
+
+# SASS
+sass:
+  style: compressed
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-paginate-content
+
+# Exclude my node related stuff
+exclude: [
+  'package.json',
+  'package-lock.json',
+  'src',
+  'node_modules',
+  'initpost.sh',
+  'Gemfile',
+  'Gemfile.lock',
+  'gulpfile.js',
+  'README.md'
+]
+
+# Theme
+version: v3.1.1
