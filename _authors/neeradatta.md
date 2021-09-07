@@ -3,7 +3,7 @@ layout: author
 photo: /assets/img/uploads/profile.png
 name: neeradatta
 display_name: Neera Datta
-position: You Wish
+position: Owner
 bio: TBD.
 github_username:  neeradatta
 facebook_username: twocupsofchaa

@@ -5,17 +5,15 @@ description: An online design shop.
 tags:
   - wedding
   - invitation
-  - tbd
-  - tba
+  - thankyounotes
+  - digitaldownloads
   - diy
+  - diyeventplanning
+  - eventplanning
 show_hero: true
 menu:
   - title: Home
     url: /
-  - title: Digital Collections
-    url: /collections/digital
-  - title: Animal Collections
-    url: /collections/animal
   - title: About
     url: /about
   - title: Contact
@@ -34,9 +32,10 @@ email: me@twocupsofchaa.com
 facebook_username: twocupsofchaa
 twitter_username: twocupsofchaa
 instagram_username: twocupsofchaa
+pinterest_username: twocupsofchaa
 #linkedin_username: linkedin_username
 #medium_username: medium_username
-pinterest_username: twocupsofchaa
+
 
 
 # Posts Settings
