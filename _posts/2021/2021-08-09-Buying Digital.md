@@ -2,7 +2,7 @@
 date: 2021-08-11
 layout: post
 title: How do you buy a cuttable or printable digital file?
-subtitle: A tutorial
+subtitle: Buying Digital
 description: How to guide to purchasing and using digital files 
 permalink: /collections/digital
 image: /images/portfolio/5.jpg
@@ -22,6 +22,7 @@ tags:
 author: Neera Datta
 ---
 How do you purchase and use a digital printable or cuttable file?
+
 
 > Quick and easy to use 
 
