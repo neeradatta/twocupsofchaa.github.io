@@ -10,12 +10,11 @@ optimized_image: /images/portfolio/23.png
 section_id: 28973991
 category: Collections
 tags:
-  - rings
-  - wedding rings
-  - ringbearer
-  - wedding
-  - invitations
-  - thank you
+  - Rings
+  - WeddingRings
+  - Wedding
+  - Invitations
+  - ThankYouNotes
   - wedding printables
 author: Neera Datta
 ---

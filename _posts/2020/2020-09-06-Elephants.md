@@ -26,7 +26,7 @@ author: neeradatta
 ---
 
 
-> # ☕ What am I getting? ☕
+> # ☕☕ What am I getting? 
 
 You’ll receive one file digital file:
 
@@ -36,7 +36,7 @@ The pictures you see are possible uses of this file, as a reminder, this is NOT 
 
 Thank you for stopping by!
 
-> # ☕ How do I get it? ☕
+> # ☕☕ How do I get it? 
 
 :: Simply purchase the listing
 
@@ -48,13 +48,13 @@ Thank you for stopping by!
 
 
 
-> # ☕ What is the story of this animal? ☕
+> # ☕☕ What is the story of this animal? 
 
 Meet our noble elephant! For as far back as I can remember I have been in awe of elephants. Elephants are strong, powerful yet graceful animals. When I see an image of an elephant they bring me peace so I kept the lines simple yet powerful. My elephant art collection is inspired by the figurines and paintings I have either been given or collected over the years.
 
 
 
-> # ☕ Printing ☕
+> # ☕☕ Printing 
 
 The final project of the artwork will be determined by the quality of the printer and either the paper or card stock that you choose. Please keep in mind that colors on a monitor may vary slightly from how they appear in person or how they display on viewing device to another due to the color calibration of your device or monitor. We recommend printing the pages using high-quality paper, such as card stock.
 
