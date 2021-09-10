@@ -28,9 +28,8 @@ author: neeradatta
 
 > ### ☕☕ What am I getting? 
 
-You’ll receive one file digital file:
+### You’ll receive one file digital file : High-Resolution, in PDF format, color: varies based on listing
 
-High-Resolution, in PDF format, color: Pink
 
 The pictures you see are possible uses of this file, as a reminder, this is NOT an item that will ship. If you would like to purchase a physical item instead of a digital file or if you would like this in a different color - feel free to click through the other sections of this store
 

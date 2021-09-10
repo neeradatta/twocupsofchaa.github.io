@@ -1,12 +1,12 @@
 ---
 date: 2021-09-09
 layout: post
-title: How do you buy printable file?
+title: How do you a buy printable file?
 subtitle: A tutorial
 description: Simple steps that show you how to purchase a digital file
 permalink: /collections/printable
 image: /images/portfolio/purchase.png
-optimized_image: /images/portfolio/print_instructions.png
+optimized_image: /images/portfolio/print_instruction.png
 section_id: 28253630
 category: Tutorial
 tags:
