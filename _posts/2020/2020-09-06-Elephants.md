@@ -30,6 +30,7 @@ Pictured: Elephant SVG cut into Vinyl on a canvas background
 Meet our noble elephant! For as far back as I can remember I have been in awe of elephants. Elephants are strong, powerful yet graceful animals. When I see an image of an elephant they bring me peace so I kept the lines simple yet powerful. My elephant art collection is inspired by the figurines and paintings I have either been given or collected over the years.
 
 > ### ☕☕ What am I getting? 
+
 ### Upon purchse you’ll receive one file digital file : High-Resolution, in PDF format, color: varies based on listing
 
 
