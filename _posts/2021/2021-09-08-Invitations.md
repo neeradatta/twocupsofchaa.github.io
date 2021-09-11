@@ -16,7 +16,7 @@ tags:
   - DIY
   - printinstructions
   - instructions
-  - tutorial
+  - Tutorial
 author: Neera Datta
 ---
 What is a Digital Invitaiton? Can I print this invitation? What if I want to email it? Can I use the same file to send out zoom links? 
