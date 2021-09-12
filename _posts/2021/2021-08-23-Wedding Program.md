@@ -6,7 +6,7 @@ subtitle: Customizable Digital Collection to use on social media accounts
 description: Ornate and intricate designs mixed with contemporary and modern stationary options. Our customizable Digital Collection can be used accross all your socil medi accounts before, during and after your events.
 permalink: /collections/program
 image: /images/portfolio/1.png
-optimized_image: /images/portfolio/covers/19.png
+optimized_image: /images/portfolio/covers/19.jpg
 section_id: 28973991
 category: Collections
 tags:
@@ -28,18 +28,4 @@ The Wedding Program Template Bundle contains a selection of templates for you to
 
 ## COMING SOON
 
-The option to have the file edited for you for a set fee. Files will be edited and returned to you electronically. Message owner via Etsy store messages for futher information. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The option to have the file edited for you for a set fee. Files will be edited and returned to you electronically. Message owner via Etsy store messages for futher information.

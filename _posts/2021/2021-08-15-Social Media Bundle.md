@@ -30,18 +30,4 @@ The social media files come in ready to use optimized sizes for each platform.
 
 ## COMING SOON
 
-The option to have the file edited for you for a set fee. Files will be edited and returned to you electronically. Message owner via Etsy store messages for futher information. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The option to have the file edited for you for a set fee. Files will be edited and returned to you electronically. Message owner via Etsy store messages for futher information.

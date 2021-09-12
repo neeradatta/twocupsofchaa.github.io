@@ -22,20 +22,4 @@ author: Neera Datta
 
 ## COMING SOON
 
-The Ring Bearer Digital Bundle is a selection of files to help you plan the wedding Party Invitation side of you wedding events. While the images are through an Indian lens they can certainly be used for events of all kinds. Each template is customizable and the download comes with instructions to help you on your way. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The Ring Bearer Digital Bundle is a selection of files to help you plan the wedding Party Invitation side of you wedding events. While the images are through an Indian lens they can certainly be used for events of all kinds. Each template is customizable and the download comes with instructions to help you on your way.
