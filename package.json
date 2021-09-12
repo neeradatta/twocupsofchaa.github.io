@@ -5,7 +5,8 @@
   "main": "gulpfile.js",
   "scripts": {
     "build": "gulp build",
-    "serve": "bundle exec jekyll serve"
+    "serve": "bundle exec jekyll serve",
+    "watch": "gulp watch"
   },
   "repository": {
     "type": "git",

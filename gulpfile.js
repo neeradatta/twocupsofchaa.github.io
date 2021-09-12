@@ -212,9 +212,8 @@ exports.default = gulp.series(gulp.parallel(js, theme, images), config, jekyll, 
  * - Compile the theme, SASS and JavaScript files
  * - Optimize and copy images to its folder
  * - Build the config file
- * - Launch BrowserSync & watch files
  */
-exports.build = gulp.series(gulp.parallel(js, theme, images), config, watch);
+exports.build = gulp.series(gulp.parallel(js, theme, images), config);
 
 /**
  * Serve Task
@@ -226,3 +225,14 @@ exports.build = gulp.series(gulp.parallel(js, theme, images), config, watch);
  * - Compile the Jekyll site
  */
  exports.serve = gulp.series(gulp.parallel(js, theme, images), config, jekyll);
+
+/**
+ * Watch Task
+ * 
+ * Running just `gulp build` will:
+ * - Compile the theme, SASS and JavaScript files
+ * - Optimize and copy images to its folder
+ * - Build the config file
+ * - Watch files
+ */
+ exports.watch = gulp.series(gulp.parallel(js, theme, images), config, watch);
