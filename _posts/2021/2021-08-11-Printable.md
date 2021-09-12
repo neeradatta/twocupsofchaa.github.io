@@ -4,25 +4,25 @@ layout: post
 title: How do you a buy printable file?
 subtitle: A tutorial
 description: Simple steps that show you how to purchase a digital file
-permalink: /collections/printable
+permalink: /collections/printables
 image: /images/portfolio/purchase.png
 optimized_image: /images/portfolio/print_instruction.png
 section_id: 28253630
-category: Tutorial
+category: tutorial
 tags:
   - Printables
   - Print
   - Printandcut
   - DIY
-  - printinstructions
-  - instructions
-  - tutorial
+  - PrintInstructions
+  - Instructions
+  - Tutorial
 author: Neera Datta
 ---
 How do you print at home and why should you do it? If you want to use digital downloads and print your own gift, note or paper product for your event you have come to the right place.  
 
 
-> Editing and printing at home has never been this easy
+> # Editing and printing at home has never been this easy
 
  
 

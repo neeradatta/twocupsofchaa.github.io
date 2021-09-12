@@ -1,12 +1,12 @@
 ---
 date: 2021-08-23 
 layout: post
-title: Customizable Social Media Files for your event
+title: Customizable Indian Wedding Program Template
 subtitle: Customizable Digital Collection to use on social media accounts
 description: Ornate and intricate designs mixed with contemporary and modern stationary options. Our customizable Digital Collection can be used accross all your socil medi accounts before, during and after your events.
 permalink: /collections/program
 image: /images/portfolio/1.png
-optimized_image: /images/portfolio/1.png
+optimized_image: /images/portfolio/covers/19.png
 section_id: 28973991
 category: Collections
 tags:

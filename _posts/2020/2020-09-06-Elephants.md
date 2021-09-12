@@ -18,13 +18,13 @@ tags:
   - Animal
   - Animal Printables
   - Animal SVG
-  - collections
-author: neeradatta
+ author: neeradatta
 
 
 
 ---
 Pictured: Elephant SVG cut into Vinyl on a canvas background
+
 > ### ☕☕ What is the story of this animal? 
 
 Meet our noble elephant! For as far back as I can remember I have been in awe of elephants. Elephants are strong, powerful yet graceful animals. When I see an image of an elephant they bring me peace so I kept the lines simple yet powerful. My elephant art collection is inspired by the figurines and paintings I have either been given or collected over the years.
@@ -85,3 +85,12 @@ Pictured: Elephant In Pink
 
 <img src="https://i.etsystatic.com/21226651/r/il/bb5fd1/2601136924/il_1588xN.2601136924_93km.jpg" alt="placeholder" title = ElephantSunset>
 Pictured: Elephant In Sunset Colors
+
+
+## SVG File 
+
+If you would like this file in multiple formats such as PDF PNG & SVG then the bundle package has everything you need. You can take the SVG and upload it directly into design space or other software for your cutting machine. Pictured below you will see the elephant design cut out in glitter on a glass vase. This makes for a beautiful centerpiece. 
+
+<img src="https://i.pinimg.com/564x/f0/d3/e6/f0d3e62e3c84c60db015331ed21d483d.jpg" alt="placeholder" title = ElephantVinyl>
+Pictured: Elephant SVG cut into Vinyl on a canvas background
+
