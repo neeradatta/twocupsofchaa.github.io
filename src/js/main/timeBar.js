@@ -7,7 +7,6 @@
 
     if (post && timeBar) {
         var lastScrollTop = 0;
-        var maxScrollTop = document.body.scrollHeight;
 
         var completed = timeBar.querySelector('.completed');
         var remaining = timeBar.querySelector('.remaining');
@@ -15,6 +14,9 @@
         var timeRemaining = timeBar.querySelector('.time-remaining');
 
         document.addEventListener('scroll', function () {
+            // Set the max scroll top value
+            var maxScrollTop = document.body.scrollHeight;
+
             // gets window height
             var win_h = (self.innerHeight) ? self.innerHeight : document.body.clientHeight;
             // gets current vertical scrollbar position
