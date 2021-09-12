@@ -37,18 +37,13 @@ Here is a link to Etsy's Download Guide [Click here](https://help.etsy.com/hc/en
 ## What is the difference between a digital download and an Electronic Virtual Invitation?
 A digital download is a file you purchase and download to your own device. An online template such as the editable templates we provide are sent via a link. 
 
-
-
-<img src="https://i.etsystatic.com/21226651/r/il/2876e9/2907219204/il_1588xN.2907219204_hlno.jpg" alt="placeholder" title = EditLinkHavanInvitation>
+![Edit Link Havan Invitation](https://i.etsystatic.com/21226651/r/il/2876e9/2907219204/il_1588xN.2907219204_hlno.jpg)
 
 Once you have completed your purchase the link to your virtual invitation will be there for you to edit and save your own file. 
 
-
-
-<img src="https://i.etsystatic.com/21226651/r/il/c9b860/2554543192/il_794xN.2554543192_5eed.jpg" alt="placeholder" title = PrintedHavanInvitation>
+![Printed Havan Invitation](https://i.etsystatic.com/21226651/r/il/c9b860/2554543192/il_794xN.2554543192_5eed.jpg)
 
 When you are happy with your file you can print on your own device, send the file to a printer or use the print features via Canva. 
-
 
 # Where can I find ready to use printable files
 

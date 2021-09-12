@@ -74,21 +74,22 @@ An unlimited amount of copies can be made.
 
 This artwork is copyrighted by Two Cups Of Chaa. This purchase is strictly for non-commercial, personal use only. You may print and design in your home, business, or a public place but may not resell, reproduce, distribute by electronic means or profit in any way from the design.
 
+![Giraffe In Black](https://i.etsystatic.com/21226651/r/il/742fc1/2855918604/il_1588xN.2855918604_9rgt.jpg)
 
-<img src="https://i.etsystatic.com/21226651/r/il/742fc1/2855918604/il_1588xN.2855918604_9rgt.jpg" alt="Giraffe In Black" title="Giraffe In Black">
 Pictured: Elephant in Black
 
-<img src="https://i.etsystatic.com/21226651/r/il/0d0e62/2934343929/il_1588xN.2934343929_ep2a.jpg" alt="Elephant Pink" title="Elephant Pink">
+![Elephant Pink](https://i.etsystatic.com/21226651/r/il/0d0e62/2934343929/il_1588xN.2934343929_ep2a.jpg)
+
 Pictured: Elephant In Pink
 
-<img src="https://i.etsystatic.com/21226651/r/il/bb5fd1/2601136924/il_1588xN.2601136924_93km.jpg" alt="Elephant Sunset" title="Elephant Sunset">
-Pictured: Elephant In Sunset Colors
+![Elephant Sunset](https://i.etsystatic.com/21226651/r/il/bb5fd1/2601136924/il_1588xN.2601136924_93km.jpg)
 
+Pictured: Elephant In Sunset Colors
 
 ## SVG File 
 
 If you would like this file in multiple formats such as PDF PNG & SVG then the bundle package has everything you need. You can take the SVG and upload it directly into design space or other software for your cutting machine. Pictured below you will see the elephant design cut out in glitter on a glass vase. This makes for a beautiful centerpiece. 
 
-<img src="https://i.pinimg.com/564x/f0/d3/e6/f0d3e62e3c84c60db015331ed21d483d.jpg" alt="placeholder" title = ElephantVinyl>
-Pictured: Elephant SVG cut into Vinyl on a canvas background
+![Elephant Vinyl](https://i.pinimg.com/564x/f0/d3/e6/f0d3e62e3c84c60db015331ed21d483d.jpg)
 
+Pictured: Elephant SVG cut into Vinyl on a canvas background
