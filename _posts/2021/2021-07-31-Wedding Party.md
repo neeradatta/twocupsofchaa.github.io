@@ -8,7 +8,7 @@ permalink: /collections/weddingparty
 image: /images/portfolio/19.png
 optimized_image: /images/portfolio/19.png
 section_id: 28973991
-category: Collections
+category: collections
 tags:
   - Brides
   - Grooms
@@ -18,6 +18,7 @@ tags:
   - Engagement
   - Eventplanning
   - WeddingPrintables
+  - Collections
 author: Neera Datta
 ---
 

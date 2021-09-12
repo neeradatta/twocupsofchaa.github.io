@@ -18,6 +18,9 @@ menu:
     url: /about
   - title: Contact
     url: /contact
+  - title: Collections
+    url: /category/collections/
+
 email: me@twocupsofchaa.com
 # See: https://disqus.com/
 #disqus_username: disqus_username

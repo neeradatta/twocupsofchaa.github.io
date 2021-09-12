@@ -8,14 +8,15 @@ permalink: /collections/rings
 image: /images/portfolio/23.png
 optimized_image: /images/portfolio/23.png
 section_id: 28973991
-category: Collections
+category: collections
 tags:
   - Rings
   - WeddingRings
   - Wedding
   - Invitations
   - ThankYouNotes
-  - wedding printables
+  - Wedding Printables
+  - Collections
 author: Neera Datta
 ---
 

@@ -6,7 +6,7 @@ subtitle: Customizable Digital Collection to use on social media accounts
 description: Ornate and intricate designs mixed with contemporary and modern stationary options. Our customizable Digital Collection can be used accross all your socil medi accounts before, during and after your events.
 permalink: /collections/socialmedia
 image: /images/portfolio/1.png
-optimized_image: /images/portfolio/1.png
+optimized_image: /images/portfolio/covers/48.png
 section_id: 28973991
 category: Collections
 tags:
