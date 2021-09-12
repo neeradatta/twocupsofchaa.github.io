@@ -28,7 +28,6 @@ email: me@twocupsofchaa.com
 # See: https://formspree.io/
 #formspree_form_id: formspree_form_id
 
-
 # Social Media Settings
 # Remove the item if you don't need it
 #github_username:  neeradatta
@@ -39,15 +38,12 @@ pinterest_username: twocupsofchaa
 #linkedin_username: linkedin_username
 #medium_username: medium_username
 
-
-
 # Posts Settings
 show_author: false
 show_time_bar: true
 show_modal_on_exit: false
 show_modal_on_finish_post: true
 two_columns_layout: true
-
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -56,7 +52,6 @@ google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
-
 
 # Build settings
 markdown: kramdown

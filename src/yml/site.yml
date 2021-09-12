@@ -1,0 +1,28 @@
+name: Two Cups of Chaa
+title: Two Cups of Chaa
+description: An online design shop.
+tags:
+  - Wedding
+  - invitation
+  - thankyounotes
+  - digitaldownloads
+  - diy
+  - diyeventplanning
+  - eventplanning
+show_hero: true
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+  - title: Collections
+    url: /category/collections/
+
+email: me@twocupsofchaa.com
+# See: https://disqus.com/
+#disqus_username: disqus_username
+# Contact Form Setting
+# See: https://formspree.io/
+#formspree_form_id: formspree_form_id
