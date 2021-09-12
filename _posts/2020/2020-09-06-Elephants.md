@@ -9,6 +9,7 @@ image: /images/portfolio/elephanticon.jpg
 optimized_image: /images/portfolio/elephanticon.jpg
 section_id: 33360208
 category: Animal Printable & SVG
+author: neeradatta
 tags:
   - Elephants
   - Haathi
@@ -18,11 +19,8 @@ tags:
   - Animal
   - Animal Printables
   - Animal SVG
- author: neeradatta
-
-
-
 ---
+
 Pictured: Elephant SVG cut into Vinyl on a canvas background
 
 > ### ☕☕ What is the story of this animal? 
@@ -77,13 +75,13 @@ An unlimited amount of copies can be made.
 This artwork is copyrighted by Two Cups Of Chaa. This purchase is strictly for non-commercial, personal use only. You may print and design in your home, business, or a public place but may not resell, reproduce, distribute by electronic means or profit in any way from the design.
 
 
-<img src="https://i.etsystatic.com/21226651/r/il/742fc1/2855918604/il_1588xN.2855918604_9rgt.jpg" alt="placeholder" title = GiraffeInBlack>
+<img src="https://i.etsystatic.com/21226651/r/il/742fc1/2855918604/il_1588xN.2855918604_9rgt.jpg" alt="Giraffe In Black" title="Giraffe In Black">
 Pictured: Elephant in Black
 
-<img src="https://i.etsystatic.com/21226651/r/il/0d0e62/2934343929/il_1588xN.2934343929_ep2a.jpg" alt="placeholder" title = ElephantPink>
+<img src="https://i.etsystatic.com/21226651/r/il/0d0e62/2934343929/il_1588xN.2934343929_ep2a.jpg" alt="Elephant Pink" title="Elephant Pink">
 Pictured: Elephant In Pink
 
-<img src="https://i.etsystatic.com/21226651/r/il/bb5fd1/2601136924/il_1588xN.2601136924_93km.jpg" alt="placeholder" title = ElephantSunset>
+<img src="https://i.etsystatic.com/21226651/r/il/bb5fd1/2601136924/il_1588xN.2601136924_93km.jpg" alt="Elephant Sunset" title="Elephant Sunset">
 Pictured: Elephant In Sunset Colors
 
 
