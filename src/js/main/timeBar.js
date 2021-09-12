@@ -7,7 +7,7 @@
 
     if (post && timeBar) {
         var lastScrollTop = 0;
-        var maxScrollTop = post.scrollHeight;
+        var maxScrollTop = document.body.scrollHeight;
 
         var completed = timeBar.querySelector('.completed');
         var remaining = timeBar.querySelector('.remaining');
@@ -15,21 +15,21 @@
         var timeRemaining = timeBar.querySelector('.time-remaining');
 
         document.addEventListener('scroll', function () {
-            var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+            // gets window height
+            var win_h = (self.innerHeight) ? self.innerHeight : document.body.clientHeight;
+            // gets current vertical scrollbar position
+            var scrl_pos = window.pageYOffset ? window.pageYOffset : document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop;
 
-            /** Custom: Fix for max scroll top value */
-            var footer = document.querySelector("footer");
-            var share = document.querySelector(".share");
-            scrollTop += (footer ? footer.scrollHeight : 0) + (share ? share.scrollHeight : 0);
-            /** End fix */
+            // Set the position
+            var scrollTop = scrl_pos + win_h;
 
-            if (scrollTop > lastScrollTop && shouldShow) {
+            if (scrollTop >= lastScrollTop && shouldShow) {
                 timeBar.style.bottom = '0%';
             } else {
                 timeBar.style.bottom = '-100%';
             }
 
-            if (scrollTop <= maxScrollTop) {
+            if (scrollTop < maxScrollTop) {
                 var percentage = scrollTop / maxScrollTop;
 
                 var completedVal = (percentage * 100).toFixed(2);

@@ -2,6 +2,16 @@
 ---
 @import "jekflix";
 
+/** Background: Update the color for all pages. */
 body {
     background-color: $lightGray;
+}
+
+/** Footer: Update to be a horizontal list. */
+footer {
+    li {
+        display: inline;
+        margin: 0;
+        margin-right: .625rem;
+    }
 }
