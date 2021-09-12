@@ -6,7 +6,7 @@ The main site for Two Cups of Chaa.
 
 ### Updating Source Code
 
-Run this command `npm run buil` to build the source code only. Run this command `npm run watch` to build and watch for changes related to the source code (src folder). Use this if you are making changes to the core JavaScript.
+Run this command `npm run build` to build the source code only. Run this command `npm run watch` to build and watch for changes related to the source code (src folder). Use this if you are making changes to the core JavaScript.
 
 ### Run Server
 
