@@ -29,3 +29,7 @@ This is the main folder you will add to. Copy an old post and start growing your
 <img class="img-rounded" src="/images/about/icon2.jpg" alt="Two Cups Of Chaa" width="100">
 <img class="img-rounded" src="/images/about/icon3.jpg" alt="Two Cups Of Chaa" width="100">
 <img class="img-rounded" src="/images/about/icon4.jpg" alt="Two Cups Of Chaa" width="100">
+
+## Jekyll Template
+
+Using the [Jekflix](https://jekflix.rossener.com/) template.
