@@ -38,3 +38,21 @@ This is the main folder you will add to. Copy an old post and start growing your
 ## Jekyll Template
 
 Using the [Jekflix](https://jekflix.rossener.com/) template.
+
+## Help
+
+### Links vs Images
+
+Images inherit from a link format, since it's a link to the image. A link format is `[Content]` followed by `(URL)`. For a link, the `Content` is what is displayed, where the `URL` is the link for the element. Placing a `!` at the beginning of the link will change the output to an image, where the `Content` is now the alt text of the image. _(Examples shown below)_
+
+* Link (a) Element - `[Link to Dattabase Site](https://dattabase.com)`
+* Image (img) Element - `![Banister decorated with flowers](\images\portfolio\photo\decor\banister.jpg)`
+
+#### Image Link
+
+To create an image and have it function as a link, simply place the image in the `Content` area of the link template. _(Example shown below)_
+
+* `[![Banister decorated with flowers](\images\portfolio\photo\decor\banister.jpg)](https://dattabase.com)`
+
+* `![Banister decorated with flowers](\images\portfolio\photo\decor\banister.jpg)`
+  `[Click to go to Etsy Shop](https://www.etsy.com/shop/TwoCupsOfChaa)`
