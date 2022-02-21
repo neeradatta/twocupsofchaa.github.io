@@ -61,7 +61,9 @@ A collection of files to assist in the preparation of many aspects of your weddi
 
 
 <br/>
+
 [![Peacock Entrance Table](\images\portfolio\photo\decor\Kalire.jfif)](https://www.etsy.com/shop/TwoCupsOfChaa)
+
 Image Description: A blank flat canvas sits on  table with a red sari background. To the left of the canvas is a small plue pot holding five peacock feathers. The eyes of the feathers cast a shaddow on the canvas. This canvas can be used to add an SVG cut out, a wedding couple's names, the dates or even a Wedding This Way sign to welcome guests to the event space. 
 
 
@@ -119,11 +121,16 @@ Image Description: Elephant cut out of muted gold vinyl using the Elephant SVG f
 [![Table Centerpiece](\images\portfolio\photo\decor\outside.jpg)](https://www.etsy.com/shop/TwoCupsOfChaa)
 Image Description: A tall clear circular vase filled with purple stone jar filler. Visible on the outside is glitter vinyl wording with the names "Raina & Ketan." The jar is sitting on a purple metal table with a stone seating wall, some grass and forest trees visible in the background. 
 
+[![Raina & Ketan Glass Centerpiece Decor](\images\portfolio\photo\decor\4.jpg)](https://www.etsy.com/shop/TwoCupsOfChaa)
+Image Description: A close up shot of an empty circular vase sitting on a yellow sequined scarf with a red embroidered background. The glass vase has glitter vinyl lettering reading the names "Rain & Ketan."
+
 [![Diamond Wrap or Diamond Ribbon](\images\portfolio\photo\decor\22.jpg)](https://www.etsy.com/shop/TwoCupsOfChaa)
 Image Description: Two strands of silver Diamond Wrap shown on a yellow scarf with silver sequins. 
 
-
 [![Peacock Entrance Table](https://i.etsystatic.com/21226651/r/il/c62c70/3717154513/il_794xN.3717154513_fiux.jpg)](https://www.etsy.com/shop/TwoCupsOfChaa)
+
+
+
 
 
 <br/>
