@@ -123,14 +123,16 @@ Image Description: A tall clear circular vase filled with purple stone jar fille
 Image Description: Two strands of silver Diamond Wrap shown on a yellow scarf with silver sequins. 
 
 
+[![Peacock Entrance Table](https://i.etsystatic.com/21226651/r/il/c62c70/3717154513/il_794xN.3717154513_fiux.jpg)](https://www.etsy.com/shop/TwoCupsOfChaa)
 
 
+<br/>
+<br/>
 
 Do you have any suggestions for additions to this list? Send us a DM on Twitter or Instagram, and your idea might be featured on the site!
 
 
 
-[![Peacock Entrance Table](https://i.etsystatic.com/21226651/r/il/c62c70/3717154513/il_794xN.3717154513_fiux.jpg)](https://www.etsy.com/shop/TwoCupsOfChaa)
 
 
 
