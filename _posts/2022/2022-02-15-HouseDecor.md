@@ -20,13 +20,17 @@ author: Neera Datta
 ---
 Image Description: A blank flat canvas sits on  table with a red sari background. To the left of the canvas is a small plue pot holding five peacock feathers. The eyes of the feathers cast a shaddow on the canvas.
 
-# Home or small space decorations
+# Home or smaller space decorations
  
  
 >Wondering how to bring that level of elegance and sophisication while tying in your wedding colors or wedding theme? 
 >Getting the house ready for a home-based wedding or party event is a major source of stress. It's a lot to clean up the space, mend items that need fixing, and move furniture around to enhance people flow. You have to worry about deocrating on top of it all? Who has that kind of time? You want it to seem elegant and professional, but you don't have the funds or time to do it. We've put together some pointers to help you make the most of your time while still achieving a finished look that is warm, welcoming, and stunning!
 
 The following suggestions are for decorating an Indian wedding sangeet, but they may be used to any sort of celebration.
+
+[![Flower Covered Banister](\images\portfolio\photo\decor\22.jpg)](https://www.etsy.com/shop/TwoCupsOfChaa)
+Image Description: A stairwell with a flower-covered handrail in the foreground. The railing is adorned with artificial flower garlands. Halfway down each rung, there are one or two small decorative elements with loose flowers for a simple, fresh, and affordable approach to decorate an entryway.
+
 
 ## Decorate using printables from our Etsy store
 
@@ -39,9 +43,13 @@ The following suggestions are for decorating an Indian wedding sangeet, but they
 
 ## What is a printable? 
 
-A collection of files to assist in the preparation of many aspects of your wedding. While the images are created through an Indian lens, they may be used for a variety of events. The collection will assist you with the event signs and printed materials. The collection has everything from Bridal Shower and Sangeet invitations to signs to help direct the flow of guests on the day. 
+A collection of files to assist in the preparation of many aspects of your wedding. While the images are created through an Indian lens, they may be used for a variety of events. The collection will assist you with the event signs and printed materials. The collection has everything from Bridal Shower and Sangeet invitations to signs to help direct the flow of guests on the day. Consider putting a gift tag with each rose to be pinned to a lapel. 
 
-[![Banister decorated with flowers](\images\portfolio\photo\decor\Rose.jfif)](https://www.etsy.com/shop/TwoCupsOfChaa)
+
+[![Rose pinned on a lapel](\images\portfolio\photo\decor\Rose.jfif)](https://www.etsy.com/shop/TwoCupsOfChaa)
+
+[![Golden Diya Printable Card](https://i.etsystatic.com/21226651/r/il/9fdb75/3681603525/il_794xN.3681603525_4eg7.jpg)](https://i.etsystatic.com/21226651/r/il/9fdb75/3681603525/il_794xN.3681603525_4eg7.jpg)
+
 
 # How this helps you plan your event:
 
@@ -49,9 +57,17 @@ A collection of files to assist in the preparation of many aspects of your weddi
 
 `Printable Animals:` These files may be printed and framed or used as DIY printable files that can be presented as a printed gift on elegant cardstock. SVG files are also available for crafters and makers. Any design may be cut onto vinyl or paper using the SVG files. Soon, the shop will provide the option of ordering couple names cut out of glitter vinyl. Follow us on our social media platforms for the latest product releases
 
-<br/>
 
-[![Banister decorated with flowers](\images\portfolio\photo\decor\banister.jpg)](https://www.etsy.com/shop/TwoCupsOfChaa)
+
+
+<br/>
+[![Peacock Entrance Table](\images\portfolio\photo\decor\Kalire.jfif)](https://www.etsy.com/shop/TwoCupsOfChaa)
+Image Description: A blank flat canvas sits on  table with a red sari background. To the left of the canvas is a small plue pot holding five peacock feathers. The eyes of the feathers cast a shaddow on the canvas. This canvas can be used to add an SVG cut out, a wedding couple's names, the dates or even a Wedding This Way sign to welcome guests to the event space. 
+
+
+
+
+[![Contemporary Wedding This Way Sign](https://i.etsystatic.com/21226651/r/il/1e77f3/3606218300/il_794xN.3606218300_n0hk.jpg)](https://i.etsystatic.com/21226651/r/il/1e77f3/3606218300/il_794xN.3606218300_n0hk.jpg)
 
 <br/>
 
@@ -71,7 +87,7 @@ A collection of files to assist in the preparation of many aspects of your weddi
 <br/>
 
 
-[![Banister decorated with flowers](\images\portfolio\photo\decor\sangeet.jfif)](https://www.etsy.com/shop/TwoCupsOfChaa)
+[![Dhol ready to use at a Sangeet Event](\images\portfolio\photo\decor\sangeet.jfif)](https://www.etsy.com/shop/TwoCupsOfChaa)
 # Supplies to decorate a Sangeet
 
 
@@ -97,7 +113,7 @@ A collection of files to assist in the preparation of many aspects of your weddi
 # DIY Sangeet or Pre-Wedding Decoration ideas 
 Below you will see some decoration ideas that are quick, simple and add a touch of luxury and class without taking over your whole bridal budget. 
 
-[![Elephant Canvas](\images\portfolio\photo\decor\haathi.jpg)](https://www.etsy.com/shop/TwoCupsOfChaa)
+[![Elephant Canvas](\images\portfolio\photo\decor\haathi.jpg)](https://www.etsy.com/listing/766395088/african-elephant-pdf-png-svg-design)
 Image Description: Elephant cut out of muted gold vinyl using the Elephant SVG file from Two Cups Of Chaa. The vinyl cutout is placed on a flat canvas and turned into a table top decoration. The canvas is propped upright and is placed on a red silk sari. This can be used as a guest sign in board by leaving a few sharpies out. 
 
 [![Table Centerpiece](\images\portfolio\photo\decor\outside.jpg)](https://www.etsy.com/shop/TwoCupsOfChaa)
@@ -106,8 +122,6 @@ Image Description: A tall clear circular vase filled with purple stone jar fille
 [![Diamond Wrap or Diamond Ribbon](\images\portfolio\photo\decor\22.jpg)](https://www.etsy.com/shop/TwoCupsOfChaa)
 Image Description: Two strands of silver Diamond Wrap shown on a yellow scarf with silver sequins. 
 
-[![Peacock Entrance Table](\images\portfolio\photo\decor\Kalire.jfif)](https://www.etsy.com/shop/TwoCupsOfChaa)
-Image Description: A blank flat canvas sits on  table with a red sari background. To the left of the canvas is a small plue pot holding five peacock feathers. The eyes of the feathers cast a shaddow on the canvas. This canvas can be used to add an SVG cut out, a wedding couple's names, the dates or even a Wedding This Way sign to welcome guests to the event space. 
 
 
 
@@ -116,7 +130,7 @@ Do you have any suggestions for additions to this list? Send us a DM on Twitter 
 
 
 
-
+[![Peacock Entrance Table](https://i.etsystatic.com/21226651/r/il/c62c70/3717154513/il_794xN.3717154513_fiux.jpg)](https://www.etsy.com/shop/TwoCupsOfChaa)
 
 
 
