@@ -5,7 +5,7 @@ title: Sangeet House Decor For Pre-Wedding Events
 subtitle: Tips Tricks and Hacks 
 description: Decorating your home for wedding week Tips, Tricks, Hacks and Printables to help create the perfect setting for your event. 
 permalink: /collections/house-decor
-image: /images/portfolio/photo/decor/peacockdecor.jpg
+image: /images/portfolio/photo/decor/1.jpg
 optimized_image: /images/portfolio/photo/decor/banister.jpg
 section_id: 28973991
 category: Tips
