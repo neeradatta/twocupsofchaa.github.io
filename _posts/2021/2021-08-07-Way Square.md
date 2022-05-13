@@ -6,7 +6,7 @@ subtitle: Wedding Signs - Printable
 description: Printable signs for your wedding event
 permalink: /collections/waysquare
 image: /images/portfolio/listings/waysquare.jpg
-optimized_image: /images/portfolio/listings/waysquare.jpg
+optimized_image: /images/portfolio/covers/49.png
 section_id: 28253630
 category: collections
 tags:

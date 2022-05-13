@@ -41,6 +41,8 @@ Image Description: A stairwell with a flower-covered handrail in the foreground.
 - `Save time by doing all of your editing on your own computer.`
 - `These simple alternatives will help you save money.`
 
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=821484788290226842" height="1500" width="345" frameborder="0" scrolling="no" ></iframe>
+
 ## What is a printable? 
 
 A collection of files to assist in the preparation of many aspects of your wedding. While the images are created through an Indian lens, they may be used for a variety of events. The collection will assist you with the event signs and printed materials. The collection has everything from Bridal Shower and Sangeet invitations to signs to help direct the flow of guests on the day. Consider putting a gift tag with each rose to be pinned to a lapel. 
