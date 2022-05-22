@@ -41,14 +41,13 @@ Image Description: A stairwell with a flower-covered handrail in the foreground.
 - `Save time by doing all of your editing on your own computer.`
 - `These simple alternatives will help you save money.`
 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=821484788290226842" height="1500" width="345" frameborder="0" scrolling="no" ></iframe>
+[![Rose pinned on a lapel](\images\portfolio\photo\decor\Rose.jfif)](https://www.etsy.com/shop/TwoCupsOfChaa)
 
 ## What is a printable? 
 
 A collection of files to assist in the preparation of many aspects of your wedding. While the images are created through an Indian lens, they may be used for a variety of events. The collection will assist you with the event signs and printed materials. The collection has everything from Bridal Shower and Sangeet invitations to signs to help direct the flow of guests on the day. Consider putting a gift tag with each rose to be pinned to a lapel. 
 
 
-[![Rose pinned on a lapel](\images\portfolio\photo\decor\Rose.jfif)](https://www.etsy.com/shop/TwoCupsOfChaa)
 
 [![Golden Diya Printable Card](https://i.etsystatic.com/21226651/r/il/9fdb75/3681603525/il_794xN.3681603525_4eg7.jpg)](https://i.etsystatic.com/21226651/r/il/9fdb75/3681603525/il_794xN.3681603525_4eg7.jpg)
 
@@ -59,23 +58,15 @@ A collection of files to assist in the preparation of many aspects of your weddi
 
 `Printable Animals:` These files may be printed and framed or used as DIY printable files that can be presented as a printed gift on elegant cardstock. SVG files are also available for crafters and makers. Any design may be cut onto vinyl or paper using the SVG files. Soon, the shop will provide the option of ordering couple names cut out of glitter vinyl. Follow us on our social media platforms for the latest product releases
 
-
-
-
 <br/>
 
 [![Peacock Entrance Table](\images\portfolio\photo\decor\Kalire.jfif)](https://www.etsy.com/shop/TwoCupsOfChaa)
 
-Image Description: A blank flat canvas sits on  table with a red sari background. To the left of the canvas is a small plue pot holding five peacock feathers. The eyes of the feathers cast a shaddow on the canvas. This canvas can be used to add an SVG cut out, a wedding couple's names, the dates or even a Wedding This Way sign to welcome guests to the event space. 
-
-
-
+Image Description: A single bridal kalira hangs from the ceiling. Not seen is an entire ceiling decorated in the same way. Simple, effective and meaningful decoration idea!
 
 [![Contemporary Wedding This Way Sign](https://i.etsystatic.com/21226651/r/il/1e77f3/3606218300/il_794xN.3606218300_n0hk.jpg)](https://i.etsystatic.com/21226651/r/il/1e77f3/3606218300/il_794xN.3606218300_n0hk.jpg)
-
+Image Description: An image on a purple embroidered background and the words Two Cups Of Chaa and Digital Design Shop. The image shows examples of the Contemporary Wedding This Way Printable Signs by Two Cups of Chaa. Visible in a frame are the words "comes with frame and no frame option."
 <br/>
-
-
 
 # Entrance and Banister Decor
 ## Decorate with flowers
@@ -92,8 +83,9 @@ Image Description: A blank flat canvas sits on  table with a red sari background
 
 
 [![Dhol ready to use at a Sangeet Event](\images\portfolio\photo\decor\sangeet.jfif)](https://www.etsy.com/shop/TwoCupsOfChaa)
-# Supplies to decorate a Sangeet
+Image Description: A dhol sitting on a rug (ready to be used in the sangeet night festivities.)
 
+# Supplies to decorate a Sangeet
 
 `Accesories to add to your space`
 - Diamond Wrap or Diamond Ribbon
@@ -113,7 +105,6 @@ Image Description: A blank flat canvas sits on  table with a red sari background
 - Seating options that are socially distanced
 - Sangeet lyric book 
 
-
 # DIY Sangeet or Pre-Wedding Decoration ideas 
 Below you will see some decoration ideas that are quick, simple and add a touch of luxury and class without taking over your whole bridal budget. 
 
@@ -131,19 +122,9 @@ Image Description: Two strands of silver Diamond Wrap shown on a yellow scarf wi
 
 [![Peacock Entrance Table](https://i.etsystatic.com/21226651/r/il/c62c70/3717154513/il_794xN.3717154513_fiux.jpg)](https://www.etsy.com/shop/TwoCupsOfChaa)
 
-
-
-
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=821484788290226842" height="1500" width="345" frameborder="0" scrolling="no" ></iframe>
 
 <br/>
 <br/>
 
 Do you have any suggestions for additions to this list? Send us a DM on Twitter or Instagram, and your idea might be featured on the site!
-
-
-
-
-
-
-
-
