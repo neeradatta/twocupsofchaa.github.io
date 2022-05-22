@@ -5,9 +5,9 @@ title: Wedding This Way Sign - Square
 subtitle: Wedding Signs - Printable
 description: Printable signs for your wedding event
 permalink: /collections/waysquare
-image: /images/portfolio/listings/waysquare.jpg
-optimized_image: /images/portfolio/covers/49.png
-section_id: 28253630
+image: /images/portfolio/photo/weddingprints/3.png
+optimized_image: /images/portfolio/photo/weddingprints/1.png
+section_id: 37994039
 category: collections
 tags:
   - Printables
@@ -33,7 +33,7 @@ Here is a link to Etsy's Download Guide [Click here](https://help.etsy.com/hc/en
 
 
 
-![Wedding This Way Square](https://i.etsystatic.com/21226651/r/il/26cfd8/2366494450/il_794xN.2366494450_3ijb.jpg)
+[![Two Cups Of Chaa Storefront](/images/portfolio/photo/weddingprints/1.png)](https://www.etsy.com/listing/829257191/wedding-planner-popular-prints-wedding?click_key=3edd63f022ef7d014fd10f7799d1bf378107c0fb%3A829257191&click_sum=35315d49&ref=shop_home_active_33)
 
 ## How do I purchase a digital file?
 
@@ -46,7 +46,7 @@ Here is a link to Etsy's Download Guide [Click here](https://help.etsy.com/hc/en
 Once you have completed your purchase the digital file will be there for you to download, save and print
 
 
-<iframe src="/images/portfolio/video/weddingwayvideo.mp4" height="625" width="236" frameborder="0" scrolling="no" ></iframe>
+<iframe src="/images/portfolio/video/weddingwayvideo.mp4" height="625" width="300" frameborder="0" scrolling="no" ></iframe>
 
 After purchase you can print on your own device, send the file to a printer or use the print features via Canva. 
 
@@ -59,7 +59,7 @@ After purchase you can print on your own device, send the file to a printer or u
 # Where can I find ready to use printable files for my wedding?
 
 You will find our full collection on our Etsy storefront 
-![Click here]().
+![Click here](https://www.etsy.com/shop/TwoCupsOfChaa)
 
 [![Two Cups Of Chaa Storefront](/images/portfolio/covers/5.jpg)](https://www.etsy.com/shop/TwoCupsOfChaa)
 
