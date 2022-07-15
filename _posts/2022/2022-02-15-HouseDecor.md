@@ -16,6 +16,7 @@ tags:
   - DIY
   - EventPlanning
   - WeddingPrintables
+  - Tips
 author: Neera Datta
 ---
 Image Description: A blank flat canvas sits on  table with a red sari background. To the left of the canvas is a small plue pot holding five peacock feathers. The eyes of the feathers cast a shaddow on the canvas.

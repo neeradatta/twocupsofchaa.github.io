@@ -8,7 +8,7 @@ permalink: /collections/socialmedia
 image: /images/portfolio/1.png
 optimized_image: /images/portfolio/covers/48.png
 section_id: 28973991
-category: Collections
+category: tutorial
 tags:
   - Brides
   - Grooms
@@ -19,6 +19,7 @@ tags:
   - SocialMedia
   - EventPlanning
   - WeddingPrintables
+  - Tutorial
 author: Neera Datta
 ---
 

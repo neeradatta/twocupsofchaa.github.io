@@ -8,7 +8,7 @@ permalink: /collections/program
 image: /images/portfolio/photo/weddingprints/program.jpg
 optimized_image: /images/portfolio/covers/19.jpg
 section_id: 28973991
-category: Collections
+category: collections
 tags:
   - Brides
   - Grooms
@@ -19,6 +19,7 @@ tags:
   - SocialMedia
   - EventPlanning
   - WeddingPrintables
+  - Collections
 author: Neera Datta
 ---
 

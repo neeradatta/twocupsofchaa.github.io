@@ -20,6 +20,9 @@ menu:
     url: /contact
   - title: Collections
     url: /category/collections/
+      - title: Tips & Hacks
+    url: /category/tips/
+
 
 email: me@twocupsofchaa.com
 # See: https://disqus.com/
