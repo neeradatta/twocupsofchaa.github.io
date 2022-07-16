@@ -8,7 +8,7 @@ permalink: /tips/house-decor
 image: /images/portfolio/photo/decor/1.jpg
 optimized_image: /images/portfolio/photo/decor/banister.jpg
 section_id: 28973991
-category: Tips
+category: tips
 tags:
   - Ornate
   - Contemporary
