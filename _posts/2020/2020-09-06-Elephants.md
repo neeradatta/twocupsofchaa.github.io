@@ -8,7 +8,7 @@ permalink: /collections/elephants
 image: /images/portfolio/animal/ElephantSVG.png
 optimized_image: /images/portfolio/covers/Elephant.png
 section_id: 28253624
-category: Animal Printable & SVG
+category: collections
 author: neeradatta
 tags:
   - Elephants
@@ -19,6 +19,7 @@ tags:
   - Animal
   - Animal Printables
   - Animal SVG
+  - Collections
 ---
 
 Image Description: Elephant SVG cut into glitter gold vinyl on a canvas backdrop.
