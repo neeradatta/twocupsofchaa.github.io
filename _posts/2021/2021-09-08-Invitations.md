@@ -5,8 +5,8 @@ title: What is a Digital Invitation?
 subtitle: A tutorial
 description: Invitaitons to meet all your needs
 permalink: /collections/invitations
-image: /images/portfolio/what.png
-optimized_image: /images/portfolio/what.png
+image: /images/portfolio/instructions/question.png
+optimized_image: /images/portfolio/instructions/question.png
 section_id: 28253630
 category: Tutorial
 tags:
