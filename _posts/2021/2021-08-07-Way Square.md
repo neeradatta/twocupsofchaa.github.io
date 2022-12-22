@@ -22,11 +22,11 @@ author: Neera Datta
 ---
 Image Description: A mockup showing how you can use the Wedding This Way as part of your Wedding Bridal Party Gift boxes. A birdseye view of a table with the Wedding This Way print in Red. Also seen are a pair of scissors, a pencil, a stamp, a candle and some flowers. 
 
->The Wedding This Way Sign is a beautiful and easy to make addition for your wedding event. This Digital Download comes in square but a portrait version in different sizes can be found on the Etsy store. 
+The Wedding This Way Sign is a beautiful and easy to make addition for your wedding event. This Digital Download comes in square but a portrait version in different sizes can be found on the Etsy store. 
 
 <iframe src="https://assets.pinterest.com/ext/embed.html?id=821484788291844318" height="580" width="600" frameborder="0" scrolling="no" ></iframe>
 
-> Print at home and find a frame for your entry or card table. 
+Print at home and find a frame for your entry or card table. 
 
 ## What are digital downloads
 Digital downloads are files that you purchase online with the intent to use. Our files are available in PDF, PNG and SVG formats. The Wedding This Way comes in PDF and JPG formats
@@ -60,4 +60,4 @@ You will find our full collection on our Etsy storefront
 
 [![Two Cups Of Chaa Storefront](/images/portfolio/covers/5.jpg)](https://www.etsy.com/shop/TwoCupsOfChaa)
 
-If you would like to customize this option 
+If you would like to customize this option please contact us through the Digital Shop on Etsy
