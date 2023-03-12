@@ -40,7 +40,7 @@ Buy a set and use them to elegantly show where the family and head tables are.
 
 ☕ How do I get it? ☕
 All you have to do is add to cart and it will ship directly to you!
-:: Favorite items that catch your eye and follow the store on Etsy ❣️
+:: Favorite items that catch your eye and follow the store on Etsy ❣️ 
 :: Send us a message on Etsy messenger if you have any questions or special requests
 
 
